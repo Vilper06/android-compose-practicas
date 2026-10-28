@@ -1,0 +1,23 @@
+RECURSOS DE SONIDOS DE MINECRAFT
+
+Audios en app/src/main/res/raw (Minecraft Java Edition 1.21.4):
+- Creeper: random/explode1.ogg (explosión).
+- Araña: mob/spider/say1.ogg.
+- Zombie: mob/zombie/say1.ogg.
+- Esqueleto: mob/skeleton/say1.ogg.
+- Warden: mob/warden/ambient_1.ogg.
+- Wither: mob/wither/spawn.ogg.
+- Dragón del End: mob/enderdragon/growl1.ogg.
+- Enderman: mob/endermen/idle1.ogg.
+- Ghast: mob/ghast/scream1.ogg.
+- Blaze: mob/blaze/breathe1.ogg.
+- Aldeano: mob/villager/idle1.ogg.
+- Cerdo: mob/pig/say1.ogg.
+
+Las imágenes mob_*.png son ilustraciones voxel creadas para esta app; no son archivos de textura del juego.
+
+Minecraft es una marca y los recursos del juego pertenecen a Mojang Studios/Microsoft. El proyecto es una tarea académica. Para usos fuera de este ejercicio, consulta las pautas oficiales:
+https://www.minecraft.net/en-us/usage-guidelines
+
+Los audios se obtuvieron del catálogo oficial de recursos de Minecraft Java Edition 1.21.4 publicado por Mojang:
+https://launchermeta.mojang.com/mc/game/version_manifest_v2.json
